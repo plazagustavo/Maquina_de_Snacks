@@ -1,0 +1,4 @@
+1,Papas,70.0
+2,Bebida,200.0
+3,Sanguche,120.0
+4,Chocolate,40.0
