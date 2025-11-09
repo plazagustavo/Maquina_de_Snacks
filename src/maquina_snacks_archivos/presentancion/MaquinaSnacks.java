@@ -7,7 +7,6 @@ import java.util.Scanner;
 import maquina_snacks_archivos.dominio.Snack;
 import maquina_snacks_archivos.servicio.IServicioSnacks;
 import maquina_snacks_archivos.servicio.ServicioSnacksArchivos;
-import maquina_snacks_archivos.servicio.ServicioSnacksLista;
 
 public class MaquinaSnacks {
 
